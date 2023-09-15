@@ -1,0 +1,27 @@
+table{
+    width:100%;
+}
+h1{text-align:center;}
+td,th{border: 2px solid black;
+    width:14.27%;
+   }
+th{ padding:8px 0;
+ color: white;
+ background-color:paleturquoise;}
+td{font-weight:bold;
+    font-size: 24px;
+    padding-bottom:100px;}
+.weekends{background-color:lawngreen;}
+.SumDays{ background-color:yellow;}
+.MinDays{background-color:lightgray}
+.RegDays{background-color:deepskyblue}
+.LateDays{background-color: #ff6868;
+color:white;}
+.weekends2{background-color:#040D12;color:white;}
+.SumDays2{ background-color:#183D3D;color:white;}
+.MinDays2{background-color:#5C8374;color:white;}
+.RegDays2{background-color:#93B1A6;color:white;}
+.LateDays2{background-color: #94B1B6;color:white;
+}
+.Special{color:red;
+background-color: #94B1B6}
